@@ -1,12 +1,5 @@
 # FusionPuls.py i FusionClient.py
 
-d88888b db    db .d8888. d888888b  .d88b.  d8b   db  d8888b. db    db db      .d8888. 
-88'     88    88 88'  YP   `88'   .8P  Y8. 888o  88  88  `8D 88    88 88      88'  YP 
-88ooo   88    88 `8bo.      88    88    88 88V8o 88  88oodD' 88    88 88      `8bo.   
-88~~~   88    88   `Y8b.    88    88    88 88 V8o88  88~~~   88    88 88        `Y8b. 
-88      88b  d88 db   8D   .88.   `8b  d8' 88  V888  88      88b  d88 88booo. db   8D 
-YP      ~Y8888P' `8888Y' Y888888P  `Y88P'  VP   V8P  88      ~Y8888P' Y88888P `8888Y' 
-
 ## Opis
 Projekt "FusionPuls" to prosty serwer i klient czatu, które pozwalają użytkownikom na komunikację tekstową w czasie rzeczywistym.
 Serwer umożliwia podłączanie wielu klientów jednocześnie i przesyłanie wiadomości między nimi. 
